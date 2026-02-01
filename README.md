@@ -51,7 +51,7 @@
             </div>
             <div class="mt-4 pt-4 border-t border-white/20">
                 <p class="text-sm font-semibold">EGS Pillay Engineering College</p>
-                <p class="text-xs text-blue-100 mt-1">Thittacherry, Nagapattinam – 611002</p>
+                <p class="text-xs text-blue-100 mt-1"> Nagapattinam – 611002</p>
             </div>
         </div>
 
